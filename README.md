@@ -24,4 +24,5 @@ I´m a Frontend developer 💻
 - Jest
 - Git
 - Scrum
+- Figma 
 
