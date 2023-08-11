@@ -1,5 +1,5 @@
 ## Hi, I´m Max 👋
-I´m a Frontend developer 💻
+I´m a Fullstack Developer 💻
 
 
 - 🔭 I’m currently working on fullstack projects
