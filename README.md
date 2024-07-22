@@ -1,10 +1,8 @@
-## Hi, I´m Max 👋
-I'm a front-end developer 💻
+## Hi, I´m Maximiliano 👋 a software developer 💻
 
-
-- 🔭 I'm currently working on my own projects
-- 🌱 I'm currently learning [Next.js](https://nextjs.org/) and MERN
-- 👯 I'm looking for my first job in the IT industry
+- 📚 Associate Degree in Computer Programming Student at NTU
+- 🌱 I'm currently learning Java, Spring Boot and PostgreSQL 
+- 👯 Looking for my first job in the IT industry
 - 💬 Ask me about everything you want to know
 - 📫 How to reach me: my [Linkedin](https://www.linkedin.com/in/maximiliano-leonel-p%C3%A9rez-8846b826a/) and [portfolio](https://maxoleo-dev.vercel.app/)
 
@@ -20,6 +18,9 @@ I'm a front-end developer 💻
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
